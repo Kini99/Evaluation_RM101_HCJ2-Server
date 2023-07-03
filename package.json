@@ -1,0 +1,20 @@
+{
+  "name": "evaluation_rm101_hcj2-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kini99/Evaluation_RM101_HCJ2-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kini99/Evaluation_RM101_HCJ2-Server/issues"
+  },
+  "homepage": "https://github.com/Kini99/Evaluation_RM101_HCJ2-Server#readme"
+}
